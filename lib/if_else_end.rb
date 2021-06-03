@@ -1,2 +1,1 @@
-# Write your soluti
-on
+# Write your solution
